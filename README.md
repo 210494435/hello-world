@@ -1,2 +1,2 @@
 # hello-world
-Este repositório é para praticar o fluxo do GitHub.
+Olá, eu sou o João Victor, estudante do curso de bacharel em Engenharia de Software na UniCesumar!!!!
